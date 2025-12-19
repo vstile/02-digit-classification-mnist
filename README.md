@@ -31,6 +31,22 @@ Il dataset è distribuito e mantenuto da Yann LeCun e collaboratori (NYU): https
 1. Clona il repo e crea un ambiente virtuale.
 2. Installa le dipendenze ed esegui il notebook.
 
+3. 
+---
+Privacy and reuse policy
+
+* This repository contains code and model. No personal data are included.
+* **Reuse is permitted provided that you cite the author and this work.**
+* Recommended license: **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt the material for any purpose, even commercially, as long as appropriate credit is given, a link to the license is provided, and any changes are indicated.
+
+Short attribution text you can include in derivative works:
+
+```
+This material reuses data and methods from:
+Stile, V. (2025). “Analisi dei DeepFake generati tramite AI [Analysis of deepfakes generated via AI],” Ph.D. dissertation, Universitas Mercatorum, Roma.
+© 2025 Vittorio Stile - Licensed under CC BY 4.0.
+```
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
